@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+temp-audio.m4a
+watermarked_video.mp4
